@@ -1,0 +1,13 @@
+{
+  "name": "aoc2018",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Owstin/advent-of-code-2018.git",
+  "author": "Owstin <owstingreen@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.12.12",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.1"
+  }
+}
